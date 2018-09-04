@@ -5,7 +5,6 @@ from https://wizardforcel.gitbooks.io/markdown-simple-world/5.html
 <p>这是一个段落<p>
 <p>这是另一个段落</p>
 <em>这是斜体</em>
-<em>这也是斜体</em>
 <strong>这是粗体</strong>
 <strong><em>这是粗体+斜体</strong></em>
 <strike>就像这样</strike>
@@ -48,9 +47,9 @@ from https://wizardforcel.gitbooks.io/markdown-simple-world/5.html
 1.  Bird
 2.  McHale
 3.  Parish
-1.  Bird
-1.  McHale
-1.  Parish
+4.  Bird
+5.  McHale
+6.  Parish
 <pre><code>这是一个代码区块。</code></pre>
 ```
 这是一个代码区块。
@@ -66,7 +65,7 @@ from https://wizardforcel.gitbooks.io/markdown-simple-world/5.html
 <img src='Capture1.JPG' alt='Alt text' />
 <img src='Capture2.JPG' alt='Alt text' title='Optional Title' />
 <p>autolink:</p>
-[http://example.com/](http://example.com/)
+<http://example.com/>
 <table><thead>
 <tr>
   <th align="left">Item</th>
