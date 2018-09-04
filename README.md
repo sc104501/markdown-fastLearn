@@ -64,8 +64,6 @@ from https://wizardforcel.gitbooks.io/markdown-simple-world/5.html
 <a href='http://example.com/' title="Optional Title">an example</a>
 <img src='Capture1.JPG' alt='Alt text' />
 <img src='Capture2.JPG' alt='Alt text' title='Optional Title' />
-<p>autolink:</p>
-<http://example.com/>
 <table><thead>
 <tr>
   <th align="left">Item</th>
